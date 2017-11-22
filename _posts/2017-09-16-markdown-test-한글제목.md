@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Markdown Test Page"
+title: "markdown-test-한글제목"
 tags: tag1 tag3
 ---
 
