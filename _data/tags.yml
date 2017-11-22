@@ -4,8 +4,8 @@ tag1:
 tag2:
   name: tag2
 
-tag3:
-  name: 폴더3
+폴더3:
+  name: tag3
 
-tag4:
-  name: 폴더4
+폴더4:
+  name: tag4
