@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "한글수정"
-tags: tag1 tag2 tag3 폴더4
+tags: tag1 tag2 tag3 tag4
 ---
 
 ## 한글
